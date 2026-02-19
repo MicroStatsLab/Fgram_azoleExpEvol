@@ -1,0 +1,16 @@
+scaffold_1	3680605	15
+scaffold_1	9113067	9
+scaffold_1	9676409	10
+scaffold_2	2308616	31
+scaffold_2	2902407	15
+scaffold_2	8170283	29
+scaffold_3	574398	12
+scaffold_3	2199767	14
+scaffold_3	8033409	37
+scaffold_3	8041075	3243
+scaffold_3	8041087	80
+scaffold_4	2194478	11
+scaffold_4	2359482	24
+scaffold_4	2975416	2
+scaffold_4	3176720	47
+scaffold_4	7322152	9
